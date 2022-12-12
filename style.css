@@ -1,0 +1,17 @@
+body {
+    background-color:brown;
+    font-family:'Permanent Marker';
+}
+p {
+    line-height: 150%;
+    color: black;
+}
+h1 {
+    color: darkred;
+}
+a {
+    color:crimson 
+}
+h2 {
+    color: darkblue;
+}
